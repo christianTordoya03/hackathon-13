@@ -1,0 +1,8 @@
+● ¿Por qué evitar los callbacks en las llamadas asíncronas?
+    Para evitar la complicación en el flujo del trabajo.
+
+● ¿Qué es una promesa?
+    Esencialmente, una promesa es un objeto devuelto al cual se adjuntan funciones callback , en lugar de pasar callbacks a una función. Llamamos a esto una llamada a función asíncrona.
+
+● ¿Qué es el callback hell?
+    Es cuando las personas intentan escribir JavaScript de forma tal que la ejecución se realiza visualmente de arriba a abajo.
